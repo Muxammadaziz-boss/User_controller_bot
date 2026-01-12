@@ -176,4 +176,4 @@ Faqat ta'lim maqsadlari uchun. Muallif hech qanday javobgarlik olmaydi.
 
 **Muxammadaziz**
 
-📧 Telegram: [@Dr4ax1l](https://t.me/Dr4ax1l)
+📧 Telegram: [@Dr4ax1l](https://t.me/Dr4x1l)
