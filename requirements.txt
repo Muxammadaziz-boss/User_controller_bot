@@ -1,0 +1,35 @@
+# requirements.txt - v3.0.5 CLIENT (Production)
+# Windows client uchun
+
+# Core - Telegram
+telethon>=1.28.0
+
+# Async operations
+aiohttp>=3.8.0
+
+# Screenshot & Image
+Pillow>=9.0.0
+
+# System info
+psutil>=5.9.0
+
+# Input control (optional)
+pyautogui>=0.9.53
+
+# Chrome password decryption (optional)
+pycryptodome>=3.15.0
+
+# AI integration (optional)
+openai>=1.0.0
+
+# Webcam (optional)
+# opencv-python>=4.6.0
+
+# Audio recording (optional)
+# pyaudio>=0.2.11
+
+# Auto-update
+requests>=2.28.0
+
+# Windows-specific (optional)
+# pywin32>=300
